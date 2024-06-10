@@ -1,4 +1,5 @@
 **Introduction to Software Engineering**
+
 **1. Define Software Engineering**
       Software engineering is an organized, restrained and quantifiable path towards creating, running and preserving software. These encompass a range of methods and techniques that can be employed to effectively develop good quality computer programs. Software engineering is not just about writing code unlike conventional programming approaches, but it takes a broad outlook that includes gathering user needs, designing, developing, testing and updating. This approach ensures that the software is reliable, maintainable, and scalable.
 
