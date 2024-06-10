@@ -6,6 +6,7 @@
 **2. Software Development Life Cycle (SDLC)**
       This is a structured approach to software development, consisting of several phases, which include the following:-
       1.	Planning: This is the phase to establish the scope and purpose of the project. It involves feasibility analysis, project scheduling, and resource allocation.
+      
       2.	Requirements Analysis: This is where gathering and analyzing user requirements to create a detailed specification takes place.
       3.	Design: This is the phase where architecture the overall structure of the software, including system architecture and detailed design of modules and components is done.
       4.	Implementation (Coding): This is the phase where we convert the design into executable code using a suitable programming language.
