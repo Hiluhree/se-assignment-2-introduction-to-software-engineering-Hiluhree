@@ -15,11 +15,14 @@
       7.	Maintenance: Includes fixing bugs, updating the software to adapt to new requirements, and improving performance.
       
 **3. Agile vs. Waterfall Models**
+
     There are various models for SDLC with Agile and Waterfall taking the largest share. The two models are different as explained below.
+    
     _**•	Waterfall Model:**_
         o	The phases are sequential phases i.e. Design, Implementation, Verification, and Maintenance.
         o	Each phase must be completed before moving on to the next.
         o	The model is suited for projects with well-defined requirements that are unlikely to change such as construction of buildings, where stages must be followed in order.
+        
     _**•	Agile Model:**_
         o	It uses iterative and incremental approach.
         o	Emphasizes on flexibility, collaboration, and customer feedback.
