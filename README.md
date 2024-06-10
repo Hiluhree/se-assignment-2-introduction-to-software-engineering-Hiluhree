@@ -98,4 +98,4 @@
       •	Security: Implementing measures to prevent unauthorized access and breaches.
       •	Intellectual Property: Respecting copyrights and avoiding plagiarism.
       •	Transparency: Being honest about software capabilities and limitations.
-Software engineers can adhere to ethical standards by following professional codes of conduct (e.g., ACM Code of Ethics), prioritizing user rights, and maintaining honesty and integrity in their work.
+      Software engineers can adhere to ethical standards by following professional codes of conduct (e.g., ACM Code of Ethics), prioritizing user rights, and maintaining honesty and integrity in their work.
